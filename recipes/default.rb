@@ -18,7 +18,7 @@ python_pip 'pyzmq' do
 end
 
 python_pip 'locustio' do
-  version '0.7.2'
+  version '0.7.3'
   user 'root'
   group 'root'
 end
